@@ -3,10 +3,10 @@ echo $putih."[$red!$putih]$red Warning !!!".$t;
 echo $putih."[•] Ini adalah program ilegal".$t;
 echo $putih."[•] Resiko sepenuhnya di tanggung pengguna".$t;
 $msgwe=$putih."[".$ijo."•".$putih."] Script VIP+$red v.2.0$putih =>$red Yt$putih :$red eftechanel".$t;
-$msgve=$red."[•] Apk new pengganti Watch & earn".$t;
+$msgve=$red."[•] bot not working vesea migrasi ke vefan".$t;
 $msgyd=$putih."[$red!$putih] Tool Premium & Multi Account".$t;
 $msgtt=$putih."[*] Enjoy Your Life !! ".$t;
-$msgfv=$putih."[*]$ijo Subscribe official Channel YT $red Efte Channel".$t;
+$msgfv=$putih."[*]$ijo bot doesn't work because of server problems $red Efte Channel".$t;
 $msgads=$putih."[$biru>$putih] Subscribe Channel YT EfteChannel".$t;
 $msgssdoge=$putih."[^] Enjoy Your Life !! ".$t;
 $stat_dony=true;
@@ -30,6 +30,7 @@ $data= [
  //vf; 
         'Nade Eda','Kaivan','Udin Cybernet','adipta apriyanto','Adipta Apriyanto','Rian 26','Rudi Wahyudi','Neni','ijah umel',
         'Awashir Hammad','Ovay Waelah','Nury Waelah'.'muhammad hilmi husaini','youtube indo',
+        'Heri Fauzi','adipurnama','Ahmad Rifai','YOUTUBE INDO',
 //Yogo
         'Rully Efte','1',
         ];
